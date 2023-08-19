@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PAWAN-G14
+- 👋 Hi, I’m @PAWAN-G14, (Born in Dec 2008)
 - 👀 I’m interested in Physics, Math and Programming
 - 🪐 I’m currently learning the very basics of quantum mechanics, newtonian mechanics, linear algebra and differential calculus.
 - 🤖 I'm also taking my first steps in learning the math behind ML & DL.
