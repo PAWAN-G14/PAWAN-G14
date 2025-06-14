@@ -4,7 +4,7 @@ The reader's curiosity is encouraged; so is the feedback on the programming (fue
 
 ABOUT ME: 
  * An infinitisimal part of the eternal, delocalized conciousness - the UNIVERSE.
- * Exited and enlightened by SCIENCE.
+ * Excited and Enlightened by SCIENCE.
  * Finds a bit of satisfaction in building stuff, writing algorithms.
  * Stumbled upon programming, ended up on its learning pathway - for it provides the said satisfaction.
  * Eternally hungry to understand the REALITY and the way of SCIENCE.
