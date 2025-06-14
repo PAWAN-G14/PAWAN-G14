@@ -1,6 +1,6 @@
 A very warm welcome to the one, who have decided to look into this profile.
 
-The reader's curiosity is encouraged; so is the feedback on the programming (fuels the learning process).
+The curiosity is encouraged; so is the feedback on the programming (fuels the learning process).
 
 ABOUT ME: 
  * An infinitisimal part of the eternal, delocalized conciousness - the UNIVERSE.
